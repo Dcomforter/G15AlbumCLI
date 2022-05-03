@@ -171,4 +171,17 @@ def searchRow(user, filename):
             print(df.columns)
             print("\n")
 
-    
+# can use if wanted to have user just type in number            
+#def loginMenu():     
+#    print("Welcome to the Album Store!")                      
+#    print("Main Menu")                                 
+#    print("1.  View all albums in catagory")           
+#    print("2.  View all albums in cart")               
+#    print("3.  Add album from category to cart")       
+#    print("4.  Remove album from cart")                
+#    print("5.  Check out albums in cart")              
+#    print("6.  View order history")       
+#    print("7.  Edit account")                          
+#    print("8.  Delete account")                        
+#    print("9.  Logout")                                
+   
