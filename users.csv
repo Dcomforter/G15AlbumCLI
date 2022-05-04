@@ -1,11 +1,3 @@
-Username,Password
-krish,0d57dca2d8e0e017e963be8d42022ab3
-anjal,c878ac8c98dbf1445c62e42fdb8bdb80
-anj,b9c95778fbf21e7e1d35cd2668cb0805
-sabin,b12a7db8a9df15e19cdce7d30839dfb4
-baddo,c98b0007547b21bb2a9b41f4ac59ac38
-abi,19a9228dbbbe3b613190002e54dc3429
-yui,4eff0335928a2d0e92f38ea9bb56d72b
-qui,9d24420082d450cb81caf59e2b173279
-israel,3f8454b7f2c12cebb1622b6b0dfd1021
-abhishek,f589a6959f3e04037eb2b3eb0ff726ac
+Username,Password,Address,CardNum
+krish,0d57dca2d8e0e017e963be8d42022ab3,123 st,12345
+Israel,5a548c2f5875f10bf5614b7c258876cf,123 Ebinbejo Street,123456789
