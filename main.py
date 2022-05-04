@@ -6,6 +6,7 @@ def mainMessage():
     print("\n=========== List of commands ==============")
     print("login\t\t-\t Log In User/Create an account")
     print("exit\t\t-\t Exit the program\n")
+    print("exit\t\t-\t Exit the program\n")
 
 def main():
     mainMessage()
