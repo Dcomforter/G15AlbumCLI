@@ -33,4 +33,4 @@ An e-commerce platform that deals with music albums run in terminal.
 
 
 ## Contributors
-Anjal Gajurel, Israel Okuneye, Anup Poudel, Marasia Harris
+Anjal Gajurel, Israel Okuneye, Anup Paudel, Marasia Harris
