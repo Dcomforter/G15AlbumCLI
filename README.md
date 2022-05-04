@@ -4,7 +4,13 @@ An e-commerce platform that deals with music albums run in terminal.
 ## How to run
 ```python main.py ```
 
-## List of commands
+## List of commands before login
+
+```login```           -        Log In User/Create an account
+
+```exit```            -        Exit the program
+
+## List of commands after login
 
   ```view all```                -        View all items
   
